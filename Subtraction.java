@@ -7,8 +7,5 @@ class Subtraction{
         System.out.println("enter b: ");
         int b = sc.nextInt();
         System.out.println("Subtraction of a and b is: "+(a-b));
-
-
-
     }
 }
