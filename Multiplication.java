@@ -7,9 +7,6 @@ class Multiplication{
         System.out.println("Enter b: ");
         int b = sc.nextInt();
         System.out.println("multiplication of a and b is: "+(a*b));
-
-
-
     }
 
 }
